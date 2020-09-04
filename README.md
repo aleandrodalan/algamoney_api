@@ -1,2 +1,2 @@
-# algamoney_fullstack
-Api Spring Boot e App Angular
+# algamoney_api
+Api Spring Boot
